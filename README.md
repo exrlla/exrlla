@@ -2,7 +2,7 @@
 
 ### 📫 About Me 
 ------------
-- I'm a freshman student studying Information Sciences at the University of Illinois Urbana Champaign! 
+- I'm a sophomore student studying Information Sciences at the University of Illinois Urbana Champaign! 
 - I'm a designer and a coder! Take a look at my [work](https://estrellapopoca.uwu.ai/) here!  
 - I'm a Software Developer at [Quant UIUC](https://quantillinois.com/), and at [Hack4Impact UIUC](https://uiuc.hack4impact.org/). I love coding for social good! Feel free to talk to me about ways to get involved! 
 
