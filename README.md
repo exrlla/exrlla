@@ -1,4 +1,5 @@
 ![ellie](https://user-images.githubusercontent.com/65576812/141365077-35fb9e65-cb6c-470a-9221-79751cf4ff45.png)
+![Untitled_Artwork](https://user-images.githubusercontent.com/65576812/171500767-56152cc0-9bb2-41ca-942a-7dbd4186fd20.gif)
 
 ### 📫 About Me 
 ------------
