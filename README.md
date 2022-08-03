@@ -1,11 +1,17 @@
-![ellie](https://user-images.githubusercontent.com/65576812/141365077-35fb9e65-cb6c-470a-9221-79751cf4ff45.png)
-![Untitled_Artwork](https://user-images.githubusercontent.com/65576812/171500767-56152cc0-9bb2-41ca-942a-7dbd4186fd20.gif)
+<p>
+<img align="left" src="https://user-images.githubusercontent.com/65576812/180334856-b8ac15d3-33c9-497e-b31c-eae78e3d43a8.png" width="300px">
 
-### 📫 About Me 
-------------
+Hey there! It's Ellie! Thank's for stopping by. What's up with my GitHub? I have a few things you can check out! Now? I'm hoping to level up in python, javascript, and C++. Game's not over! 
+
+
+### <img align="left" src="https://user-images.githubusercontent.com/65576812/180335476-afb779d0-4032-4e60-9f4d-d1c3e849db2c.png" width="40px"> My Character
+
+ 
 - I'm a sophomore student studying Information Sciences at the University of Illinois Urbana Champaign! 
 - I'm a designer and a coder! Take a look at my [work](https://estrellapopoca.uwu.ai/) here!  
 - I'm a Software Developer at [Quant UIUC](https://quantillinois.com/), and at [Hack4Impact UIUC](https://uiuc.hack4impact.org/). I love coding for social good! Feel free to talk to me about ways to get involved! 
+ <p /> 
+<br clear="left"/>
 
 ### 🔭 Get in Touch! 
 --------------
