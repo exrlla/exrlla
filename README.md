@@ -4,8 +4,9 @@
 Hey there! It's Ellie! Thank's for stopping by. What's up with my GitHub? I have a few things you can check out! Now? I'm hoping to level up in python, javascript, and C++. Game's not over! 
 
 
-### <img align="left" src="https://user-images.githubusercontent.com/65576812/180335476-afb779d0-4032-4e60-9f4d-d1c3e849db2c.png" width="40px"> My Character
+## <img align="left" src="https://user-images.githubusercontent.com/65576812/180335476-afb779d0-4032-4e60-9f4d-d1c3e849db2c.png" width="40px"> My Character
 
+ 
  
 - I'm a sophomore student studying Information Sciences at the University of Illinois Urbana Champaign! 
 - I'm a designer and a coder! Take a look at my [work](https://estrellapopoca.uwu.ai/) here!  
@@ -13,22 +14,25 @@ Hey there! It's Ellie! Thank's for stopping by. What's up with my GitHub? I have
  <p /> 
 <br clear="left"/>
 
-### 🔭 Get in Touch! 
---------------
-🦋Email: [estrellapopoca2002@gmail.com](estrellapopoca2002@gmail.com)</br> 
-🌱LinkedIn: [Estrella Popoca](https://www.linkedin.com/in/estrella-2021/)
+<p align="center" >
+<img src="https://user-images.githubusercontent.com/65576812/183567672-780321f4-eda3-4501-88a8-ea73f9e87d85.gif" width="300px">
 
-<!--
-**exrlla/exrlla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <img align="center" src="https://user-images.githubusercontent.com/65576812/180335476-afb779d0-4032-4e60-9f4d-d1c3e849db2c.png" width="40px"> Get in Touch! 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/elliepopoca/">
+<img align="left" src="https://user-images.githubusercontent.com/65576812/183569542-480ab1ee-9e98-4cd9-a60a-23919be2feb4.png" width="150px">
+<a /> 
+
+<a href="https://www.instagram.com/elliescoding/">
+<img align="left" src="https://user-images.githubusercontent.com/65576812/183569550-8f096a5b-7fdc-486e-9839-d313504cf9d5.png" width="150px">
+<a />
+
+<a href="mailto:ellie@popoca.io">
+<img src="https://user-images.githubusercontent.com/65576812/183569557-bc45c86d-c4d9-472d-b584-b025ffa7a39e.png" width="150px">
+<a />
+
+<p /> 
+
+
+
