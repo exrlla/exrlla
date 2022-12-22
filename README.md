@@ -10,7 +10,7 @@ Hey there! It's Ellie! Thank's for stopping by. What's up with my GitHub? I have
  
 - I'm a junior student studying Information Sciences at the University of Illinois Urbana Champaign! 
 - I'm a designer and a coder! Take a look at my [work](https://estrellapopoca.uwu.ai/) here!  
-- I'm a Software Developer at [Carella](https://www.businesswire.com/news/home/20220510005447/en/CCNY-Student-Led-Start-Up-Carella-Wins-25000-at-Standard-Chartered-2022-Women-in-Tech-Incubator-Competition), and at [Hack4Impact UIUC](https://uiuc.hack4impact.org/). I love coding for social good! Feel free to talk to me about ways to get involved! 
+- I'm a Software Developer at [Hack4Impact UIUC](https://uiuc.hack4impact.org/). I love coding for social good! Feel free to talk to me about ways to get involved! 
  <p /> 
 <br clear="left"/>
 
