@@ -11,7 +11,7 @@ Thank's for stopping by. What's up with my GitHub? I have a few things you can c
  
 - I'm a junior student studying Information Sciences at the University of Illinois Urbana Champaign! 
 - I'm a designer and a coder! Take a look at my [work](https://popoca.io/) here!  
-- I'm a Software Developer at [Hack4Impact UIUC](https://uiuc.hack4impact.org/). I love coding for social good! Feel free to talk to me about ways to get involved! 
+- I'm a Software Developer at [Hack4Impact UIUC](https://uiuc.hack4impact.org/). I love coding for social good! 
  <p /> 
 <br clear="left"/>
 
