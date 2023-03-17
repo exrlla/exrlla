@@ -34,9 +34,10 @@ Thank's for stopping by. What's up with my GitHub? I have a few things you can c
 <a />
  
  ## <img align="center" src="https://user-images.githubusercontent.com/65576812/180335476-afb779d0-4032-4e60-9f4d-d1c3e849db2c.png" width="40px"> Top Projects!
- - Link Shortner: I created a link shortner for WECE @ Illinois to redirect any website using a custom suffix for events and General Meetings (Getting rid of pesky QR Codes) | [Github Link](https://github.com/uiuc-wece/link-shortener)
- - Personal Website: I made my own portfolio site for designs and coding projects using Svelte and Tailwind CSS | [Github Link](https://github.com/exrlla/exrlla.github.io)
- - Ligo: A hackathon project for BoilerMake @ Purdue University 2023 | Best Climate Hack Winner from ECOLab | [Github Link](https://github.com/jamieRollison/ligo)
+ - **Link Shortner**: I created a link shortner for WECE @ Illinois to redirect any website using a custom suffix for events and General Meetings (Getting rid of pesky QR Codes) | [Github Link](https://github.com/uiuc-wece/link-shortener)
+ - **Personal Website**: I made my own portfolio site for designs and coding projects using Svelte and Tailwind CSS | [Github Link](https://github.com/exrlla/exrlla.github.io)
+ - **Ligo**: A hackathon project for BoilerMake @ Purdue University 2023 | Best Climate Hack Winner from ECOLab | [Github Link](https://github.com/jamieRollison/ligo)
+ - **Forte**: A hackathon project for AthenaHacks @ USC where you can share a song of the day using the Spotify API. | Athena's Favortie | [Github Link](https://github.com/jamieRollison/forte)
 <p /> 
 
 
