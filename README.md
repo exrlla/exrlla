@@ -1,11 +1,11 @@
 <p>
-<img align="left" src="https://user-images.githubusercontent.com/65576812/180334856-b8ac15d3-33c9-497e-b31c-eae78e3d43a8.png" width="300px">
+<img align="left" src="https://i.pinimg.com/originals/d9/cb/5c/d9cb5cd1f0183ffc8fd0b957803fa231.gif" width="300px">
 
-<h3> Hey there! It's Ellie! </h3>
+<h3> ✩°｡⋆⸜ I'm a j(ellie)fish! </h3>
 Thank's for stopping by. What's up with my GitHub? I have a few things you can check out! Now? I'm hoping to level up in javascript, python, and Ruby!!! Game's not over! My current mission is to work on my site portfolio and keep it updated... 😵‍💫 🥣 
 
 
-## <img align="left" src="https://user-images.githubusercontent.com/65576812/180335476-afb779d0-4032-4e60-9f4d-d1c3e849db2c.png" width="40px"> My Character
+## <img align="left" src="https://user-images.githubusercontent.com/65576812/180335476-afb779d0-4032-4e60-9f4d-d1c3e849db2c.png" width="40px"> JELLY STATS ₊‧°𐐪♡𐑂°‧₊
 
  
  
