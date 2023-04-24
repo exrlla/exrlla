@@ -9,9 +9,9 @@ Thank's for stopping by. What's up with my GitHub? I have a few things you can c
 
  
  
-- I'm a junior student studying Information Sciences at the University of Illinois Urbana Champaign! 
-- I'm a designer and a coder! Take a look at my [work](https://popoca.io/) here!  
+- I'm a sophomore student studying Information Sciences + Game Studies and Design at the University of Illinois Urbana Champaign!  
 - I'm a Software Developer at [Hack4Impact UIUC](https://uiuc.hack4impact.org/). I love coding for social good! 
+- I love ✨ creative ✨ coding, and being a part of the mission of creating the future internet computer wihth [Arc](https://thebrowser.company/)
  <p /> 
 <br clear="left"/>
 
