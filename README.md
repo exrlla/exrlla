@@ -15,9 +15,6 @@ Thank's for stopping by. What's up with my GitHub? I have a few things you can c
  <p /> 
 <br clear="left"/>
 
-<p align="center" >
-<img src="https://user-images.githubusercontent.com/65576812/183567672-780321f4-eda3-4501-88a8-ea73f9e87d85.gif" width="300px">
-
 ## <img align="center" src="https://user-images.githubusercontent.com/65576812/180335476-afb779d0-4032-4e60-9f4d-d1c3e849db2c.png" width="40px"> Get in Touch! 
 
 
