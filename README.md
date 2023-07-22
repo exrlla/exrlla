@@ -2,16 +2,16 @@
 <img align="left" src="https://i.pinimg.com/originals/d9/cb/5c/d9cb5cd1f0183ffc8fd0b957803fa231.gif" width="300px">
 
 <h3> ✩°｡⋆⸜ I'm a j(ellie)fish! </h3>
-Thank's for stopping by. What's up with my GitHub? I have a few things you can check out! Now? I'm hoping to level up in javascript, python, and Ruby!!! Game's not over! My current mission is to work on my site portfolio and keep it updated... 😵‍💫 🥣 
+Thank's for stopping by. What's up with my GitHub? I have a few things you can check out! Now? I'm hoping to level up in javascript, vue, and typescript!!! Game's not over! My current mission is to work on my site portfolio and keep it updated... 😵‍💫 🥣 
 
 
 ## <img align="left" src="https://user-images.githubusercontent.com/65576812/180335476-afb779d0-4032-4e60-9f4d-d1c3e849db2c.png" width="40px"> JELLY STATS ₊‧°𐐪♡𐑂°‧₊
 
  
  
-- I'm a sophomore student studying Information Sciences + Game Studies and Design at the University of Illinois Urbana Champaign!  
-- I'm a Software Developer at [Hack4Impact UIUC](https://uiuc.hack4impact.org/). I love coding for social good! 
-- I love ✨ creative ✨ coding, and being a part of the mission of creating the future internet computer wihth [Arc](https://thebrowser.company/)
+- I'm a third yr student studying Information Sciences + Game Studies and Design at the University of Illinois Urbana Champaign!  
+- I design and develop for TEDx UIUC, go to hackathons, and PM for Acxiom
+- I love ✨ creative ✨ coding, and being a part of the mission of creating the future internet computer with [Arc](https://thebrowser.company/)
  <p /> 
 <br clear="left"/>
 
